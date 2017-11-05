@@ -1,0 +1,2 @@
+This week was very JavaScript heavy. I personally enjoyed it, however a lot of other people absolutely hated it. Honestly, I would probably be in the same boat as them if I had no knowledge of any back-end(ish) languages.
+This week was also my first time attending the CPOSC. CPOSC is something that I want to continue going to and hopefully contribute to.
